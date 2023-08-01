@@ -22,7 +22,15 @@ Check Node Version
 
 Install Node Modules
 
-    npm install
+    npm init -y
+
+Install Node Modules
+
+    npm init wdio .
+
+Fix Issue
+
+    npm i -D typescript ts-node
 
 Running Code in Visual Studio Code
 
