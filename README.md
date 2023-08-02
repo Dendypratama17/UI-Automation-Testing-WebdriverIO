@@ -26,7 +26,7 @@ Install Node Modules
 
 Install Node Modules
 
-    npm init wdio .
+    npm init wdio . -- --yes
 
 Fix Issue
 
